@@ -1,0 +1,39 @@
+2-D Truss analysis
+------------------
+
+Date: 29-Sep-2014 08:09:36
+
+Input file: 11bars.inp
+
+Joints:         Joint-id  x-coordinate y-coordinate
+                1         0.00         0.00
+                2         8.00         0.00
+                3        16.00         0.00
+                4        24.00         0.00
+                5        24.00         8.00
+                6        16.00         8.00
+                7         8.00         8.00
+
+
+External loads: Joint-id  Force-x      Force-y
+                2         0.00        -3.00
+                3         0.00        -3.00
+                4         0.00        -1.50
+
+Bars:           Bar-id    Joint-i      Joint-j     Force    (T,C)
+                1         1            2           7.500     (T)
+                2         2            3           7.500     (T)
+                3         3            4          12.000     (T)
+                4         1            7          10.607     (C)
+                5         2            7           3.000     (T)
+                6         3            7           6.364     (T)
+                7         3            6           1.500     (C)
+                8         4            6           2.121     (T)
+                9         4            5           0.000     (C)
+               10         7            6          12.000     (C)
+               11         6            5          13.500     (C)
+
+Reactions:      Joint-id  Uvec-x       Uvec-y      Force
+                1         0.00         1.00        7.500
+                4         1.00         0.00       13.500
+                5         1.00         0.00      -13.500

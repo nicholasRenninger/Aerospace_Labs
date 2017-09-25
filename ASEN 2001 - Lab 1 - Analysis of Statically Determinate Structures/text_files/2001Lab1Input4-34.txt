@@ -1,0 +1,30 @@
+# number of external forces and moments
+2 0
+# coordinates of the points at which external forces are applied
+# x y z
+0 -5 5
+0 0 0
+# magnitude and direction of external forces
+# F dx dy dz
+300 0 -1 -1
+250 0.35355339 0.61237244 -0.70710678
+# location at which external couple moments are applied
+# x y z
+# magnitude and direction of external couple moments
+# M dx dy dz
+# location of supports // Support names: Ax, Ay, Bx, Bz, Cy, Cz
+# x y z
+0 -5 4
+0 -5 4
+0 -3 0
+0 -3 0
+-5 0 0
+-5 0 0
+# type (F/M) and direction of reaction
+# type dx dy dz
+F 1 0 0
+F 0 1 0
+F 1 0 0
+F 0 0 1
+F 0 1 0
+F 0 0 1

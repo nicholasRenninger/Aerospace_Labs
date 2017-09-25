@@ -1,0 +1,4 @@
+x = ball_xy_position_data.x_pixel;
+y = ball_xy_position_data.y_pixel;
+t = ball_xy_position_data.time_seconds;
+figure;plot(t,y,'.')

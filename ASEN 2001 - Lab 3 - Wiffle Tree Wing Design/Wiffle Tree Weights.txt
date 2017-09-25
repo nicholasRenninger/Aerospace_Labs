@@ -1,0 +1,4 @@
+0.49 ; %N sleeve
+1.77 ; %N 6 inch bar
+2.94 ; %N 12 inch bar
+3.92 ; %N 18 inch bar

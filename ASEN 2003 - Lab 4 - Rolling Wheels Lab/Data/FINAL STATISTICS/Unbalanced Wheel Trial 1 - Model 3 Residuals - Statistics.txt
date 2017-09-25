@@ -1,0 +1,5 @@
+Unbalanced Wheel Trial 1 - Model 3 Residuals - Statistics:
+
+|  sigma  |  mean residual  | sigma/sqrt(N) |    N     | num. residuals > 3*sigma  |
+|----------------------------------------------------------------------------------|
+|000000.2 |    -0000.109    |   00000.03    |   0028   |           000             |

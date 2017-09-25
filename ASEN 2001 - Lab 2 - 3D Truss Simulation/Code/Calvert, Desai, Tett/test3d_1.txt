@@ -1,0 +1,31 @@
+# 3D truss verification problem 1
+#
+# number of joints, bar, reactions, loads
+4  6  6  1
+#
+# coordinates of joints
+1   6.0   0.0   0.0
+2   3.0   4.5   0.0
+3   0.0   0.0   0.0
+4   3.0   2.0   6.0
+#
+# connectivity of bars
+1   1   2
+2   2   3
+3   3   1
+4   1   4
+5   2   4
+6   3   4
+#
+# reaction forces
+1   1.0   0.0   0.0
+1   0.0   1.0   0.0
+1   0.0   0.0   1.0
+2   0.0   0.0   1.0
+3   0.0   1.0   0.0
+3   0.0   0.0   1.0
+#
+# external loads
+4   0.0   0.0  -8.0
+#
+# end of file

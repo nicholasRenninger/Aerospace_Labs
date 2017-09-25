@@ -1,0 +1,39 @@
+# number of external forces and moments
+2 0
+# coordinates of the points at which external forces are applied
+# x y z
+0 -5 5
+0 0 0
+# magnitude and direction of external forces
+# F dx dy dz
+300 0 -1 -1
+250 0.35355339 0.61237244 -0.70710678
+# location at which external couple moments are applied
+# x y z
+# magnitude and direction of external couple moments
+# M dx dy dz
+# location of supports // Support names: Ax, Ay, Bx, Bz, Cy, Cz
+# x y z
+0 -5 4
+0 -5 4
+0 -3 0
+0 -3 0
+-5 0 0
+-5 0 0
+# type (F/M) and direction of reaction
+# type dx dy dz
+F 1 0 0
+F 0 1 0
+F 1 0 0
+F 0 0 1
+F 0 1 0
+F 0 0 1
+
+# Magnitudes of Reaction Moments and Forces:
+
+The magnitude of Reaction Force 1 is: 632.883030
+The magnitude of Reaction Force 2 is: -141.081279
+The magnitude of Reaction Force 3 is: -721.271378
+The magnitude of Reaction Force 4 is: 895.215153
+The magnitude of Reaction Force 5 is: 200.120204
+The magnitude of Reaction Force 6 is: -506.306424

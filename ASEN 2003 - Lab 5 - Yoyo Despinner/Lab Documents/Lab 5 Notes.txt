@@ -1,0 +1,9 @@
+In the video "yoyoDespinTangentialRelease" 
+
+n1,n2 = inertial axes
+b1,b2 = body axes (fixed to the spacecraft)
+t1,t2 = tangential axes for blue mass
+
+For each mass:
+x = cable attachment point to spacecraft
+dot = point where cable is tangential to spacecraft hub

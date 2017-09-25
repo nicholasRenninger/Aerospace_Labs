@@ -1,0 +1,5 @@
+Balanced Wheel Trial 2 - Model 2 Residuals - Statistics:
+
+|  sigma  |  mean residual  | sigma/sqrt(N) |    N     | num. residuals > 3*sigma  |
+|----------------------------------------------------------------------------------|
+|00000.06 |    00000.041    |   00000.01    |   0036   |           001             |

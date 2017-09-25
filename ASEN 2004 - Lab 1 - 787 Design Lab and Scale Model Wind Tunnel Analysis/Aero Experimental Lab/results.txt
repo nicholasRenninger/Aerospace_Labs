@@ -1,0 +1,21 @@
+Static Margin @ AoA = 0 [%MAC]: 
+clean: -15.513560 	 dirty: -15.894467 	 787: 64.991465 
+
+Longitudinal Stability @ AoA = 0 [1/deg]: 
+clean: 0.009861 	 dirty: 0.014295 	 787: -0.057619 
+
+dC_L/dAoA @ AoA = 0 [1/deg]: 
+clean: 0.063565 	 dirty: 0.089937 	 787: 0.088657 
+
+Min. Landing Speed - Model (actual Model) [knots]: 
+clean: 58.313819 	 dirty: 58.357657 	 787: 63.060094 
+
+Min. Landing Speed - Model (theor. Mass Model) [knots]: 
+clean: 30.104843 	 dirty: 29.665101 	 787: 15.018500 
+
+Min. Landing Speed - Actual Plane (from actual Model) [knots]: 
+clean: 404.009988 	 dirty: 404.313709 	 787: 945.901416 
+
+Min. Landing Speed - Actual Plane (from theor. Mass Model) [knots]: 
+clean: 208.572469 	 dirty: 205.525851 	 787: 225.277493 
+
